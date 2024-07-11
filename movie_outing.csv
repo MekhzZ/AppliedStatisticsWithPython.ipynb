@@ -1,0 +1,15 @@
+Day,Outlook,Humidity,Temperature,Out For Movie
+D1,Sunny,High,Hot,No
+D2,Sunny,High,Hot,No
+D3,Overcast,High,Hot,Yes
+D4,Rain,High,Mild,Yes
+D5,Rain,Normal,Cool,Yes
+D6,Rain,Normal,Cool,Yes
+D7,Overcast,Normal,Cool,Yes
+D8,Sunny,High,Mild,No
+D9,Sunny,Normal,Cool,Yes
+D10,Rain,Normal,Mild,Yes
+D11,Sunny,Normal,Mild,Yes
+D12,Overcast,High,Mild,Yes
+D13,Overcast,Normal,Hot,Yes
+D14,Rain,High,Mild,Yes
